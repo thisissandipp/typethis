@@ -5,7 +5,7 @@ issue_tracker: https://github.com/thisissandipp/typethis/issues
 homepage: https://github.com/thisissandipp/typethis
 documentation: https://github.com/thisissandipp/typethis
 
-version: 1.0.2
+version: 1.0.3
 
 environment:
   sdk: ">=3.1.3 <4.0.0"
