@@ -1,6 +1,6 @@
 # TypeThis
 
-[![build](https://github.com/thecodexhub/typethis/actions/workflows/main.yml/badge.svg)](https://github.com/thecodexhub/typethis/actions)
+[![build](https://github.com/thisissandipp/typethis/actions/workflows/main.yml/badge.svg)](https://github.com/thisissandipp/typethis/actions)
 [![codecov](https://codecov.io/gh/thecodexhub/typethis/graph/badge.svg?token=7FY2DF2DS1)](https://codecov.io/gh/thecodexhub/typethis)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 [![Package Version](https://img.shields.io/pub/v/typethis.svg)](https://pub.dev/packages/typethis)
@@ -111,7 +111,7 @@ Use the TypeThisController to manage and control the animations as well. [Read h
 
 ## Demo
 
-[![Demo](demo/typethis.gif)](https://github.com/thecodexhub/typethis)
+[![Demo](demo/typethis.gif)](https://github.com/thisissandipp/typethis)
 
 ## License
 
@@ -121,11 +121,11 @@ The project is released under the [MIT License](LICENSE). Learn more about it, [
 
 <p align="center">
   <p align="center">
-    Developed and Maintained with 💜 by <a href="https://github.com/thecodexhub">thecodexhub</a>
+    Developed and Maintained with 💜 by <a href="https://github.com/thisissandipp">Sandip Pramanik</a>
   </p>
   <p align="center">
-    <a href="https://github.com/thecodexhub/typethis">
-      <img src="https://img.shields.io/github/stars/thecodexhub/typethis?label=%E2%AD%90%20Star%20this%20repository&color=%23FFBF00" alt="Star this repository">
+    <a href="https://github.com/thisissandipp/typethis">
+      <img src="https://img.shields.io/github/stars/thisissandipp/typethis?label=%E2%AD%90%20Star%20this%20repository&color=%23FFBF00" alt="Star this repository">
     </a>
   </p>
 </p>

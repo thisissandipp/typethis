@@ -1,9 +1,9 @@
 name: typethis
 description: A flutter package that aims to simplify versatile typing animation with rich text effects and other operations (reset, freeze, unfreeze).
-repository: https://github.com/thecodexhub/typethis
-issue_tracker: https://github.com/thecodexhub/typethis/issues
-homepage: https://github.com/thecodexhub/typethis
-documentation: https://github.com/thecodexhub/typethis
+repository: https://github.com/thisissandipp/typethis
+issue_tracker: https://github.com/thisissandipp/typethis/issues
+homepage: https://github.com/thisissandipp/typethis
+documentation: https://github.com/thisissandipp/typethis
 
 version: 1.0.2
 
